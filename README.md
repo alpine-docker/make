@@ -29,3 +29,5 @@ docker-compose run alpine make _echo
 echo 'Hello World!'
 Hello World!
 ```
+
+More examples at https://3musketeers.io/
