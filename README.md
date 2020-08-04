@@ -5,7 +5,7 @@ A simple container to run make command directly, especially for https://3muskete
 
 https://github.com/alpine-docker/make
 
-# Docker iamge tags:
+# Docker image tags:
 
 https://hub.docker.com/r/alpine/make/tags/
 
